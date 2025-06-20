@@ -32,9 +32,9 @@ Feel free to explore my reports, share feedback, or reach out for collaboration!
 ---
 
 ## 📬 Contact
-
+- You can also have this information from About Me pinned repo on my profile. 
 - 📧 mfaran2003@gmail.com
-- 🌐 https://www.linkedin.com/in/muhammad-faran-initfortech/
+- 🌐 https://www.linkedin.com/in/faranweb3
 
 ---
 
